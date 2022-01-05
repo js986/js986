@@ -3,7 +3,6 @@
 Nice to meet you, I'm Jordan!
 
 - 🔭 I’m currently a graduate student majoring in Computer Science at the University of Southern California
-- 👀 I am actively looking for SWE internship for Summer 2022
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play 4 instruments!
 
